@@ -1,0 +1,3 @@
+1. TAppEncoder_sosr.exe is the demo encoder of the proposed SOSR scheme implemented in HM16.20, specified for  all-intra and low-delay-B configurations.
+2. encoder_intra_main.cfg, encoder_lowdelay_main_hier.cfg, and encoder_lowdelay_main_non_hier.cfg are the configurations we used in our paper. These configurations can also be found in the source files of HM.
+3. ssim_org.m is the SSIM index (Copyright(c) 2009 Zhou Wang) used in our paper for distortion evluation.
